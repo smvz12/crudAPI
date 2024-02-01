@@ -1,2 +1,2 @@
 # crudAPI
-Allows for CRUD operations to be performed using the H2 database.
+Facilitates CRUD operations using a REST API connected to the H2 relational database
